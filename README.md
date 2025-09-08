@@ -16,7 +16,4 @@ Built using **HTML5 + CSS3**, this project provides a simple, modern design for 
 
 ## 📸 Preview
 
-> Add a screenshot or banner of your site here!  
-For example:
-```markdown
 ![Solar System Screenshot](screenshot.png)
